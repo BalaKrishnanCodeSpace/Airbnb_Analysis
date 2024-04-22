@@ -35,7 +35,7 @@ def mongoDb_connection():
     """
 
     # MongoDB connection URI
-    uri = "mongodb+srv://<username>:<password><cluster>?retryWrites=true&w=majority&appName=AtlasCluster" # due to security reasons i have not supplied the credentials 
+    uri = "mongodb+srv://<username>:<password><cluster>?retryWrites=true&w=majority&appName=<cluster>" # due to security reasons i have not supplied the credentials 
     
     try:
         # Create a new client and connect to the server using the provided URI
