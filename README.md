@@ -41,22 +41,39 @@ This project explores the world of Airbnb rentals through a data-driven lens. By
 ## Developer Guide
 To run the Streamlit web application, you'll need to follow these steps:
 
-1. Clone the Repository
-Clone this GitHub repository to your local machine using the following command:
-
-```python
-git clone https://github.com/BalaKrishnanCodeSpace/airbnb.git
-```
-
-2. Install Dependencies
+1. Install Dependencies
 Navigate to the project directory and install the required dependencies using pip:
 
 ```python
 pip install -r requirements.txt
 ```
 
+2. Get MongoDB URI
+Log in to your MongoDB Atlas account and navigate to your cluster. Copy the connection string (URI) provided by Atlas.
+
+3. Set Up Connection in Python:
+create an account in [**MongoDB Atlas**](https://account.mongodb.com/account/login) and set up a cluster. MongoDB Atlas provides cloud-hosted MongoDB databases that allow you to store and manage your data in a scalable and secure manner. Creating a cluster is necessary to deploy and manage your MongoDB database in the cloud. Use the pymongo library to establish a connection to MongoDB Atlas in your Python script. Here's an example:
+
+```python
+from pymongo.mongo_client import MongoClient
+from pymongo.server_api import ServerApi
+
+# MongoDB Atlas connection URI
+uri = "mongodb+srv://<username>:<password><database>?retryWrites=true&w=majority&appName=<cluster>"
+
+# Create a new client and connect to the server using the provided URI
+Client = MongoClient(uri, server_api=ServerApi('1'))
+
+# Send a ping to confirm a successful connection
+Client.admin.command('ping')
+
+# Accessing the desired database and collection
+Database = Client.sample_airbnb
+Collection = Database.listingsAndReviews
+```
+
 3. Run the Application
-Once the dependencies are installed, you can run the Streamlit application with the following command:
+Once the cluster is created modify it in the code in the python file airbnb.py then you can run the Streamlit application with the following command:
 
 ```python
 streamlit run airbnb.py
@@ -68,5 +85,11 @@ Once the Streamlit server is running, you can access the application by opening 
 5. Explore the Application
 You can now explore the different features and functionalities of the Streamlit application as per your requirements.
 
+
+## Features
+- Data Visualization: Visualize Airbnb data using interactive charts and maps.
+- Streamlit Integration: Utilize Streamlit to create a user-friendly web interface for data exploration.
+- MongoDB Connectivity: Connect to MongoDB Atlas to retrieve and analyze Airbnb data stored in the cloud.
+- Power BI Integration: Embed Power BI visualizations within the Streamlit app for enhanced data presentation.
 
 
