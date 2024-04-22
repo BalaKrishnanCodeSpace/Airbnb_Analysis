@@ -93,3 +93,21 @@ You can now explore the different features and functionalities of the Streamlit 
 - Power BI Integration: Embed Power BI visualizations within the Streamlit app for enhanced data presentation.
 
 
+## User Guide
+1. Home Page
+![HomePage](https://github.com/BalaKrishnanCodeSpace/airbnb/blob/76167a23cbe1adb3b9d6737a1a32baffc8e4b288/Misc/Home_Page.png)
+
+
+
+
+2. Export Page
+![ExportPage](https://github.com/BalaKrishnanCodeSpace/airbnb/blob/76167a23cbe1adb3b9d6737a1a32baffc8e4b288/Misc/Export_Page.png)
+
+
+3. Visualization Page
+![VisualizationPage1](https://github.com/BalaKrishnanCodeSpace/airbnb/blob/76167a23cbe1adb3b9d6737a1a32baffc8e4b288/Misc/Visualization_Page%20-%20Power%20BI.png)
+![VisualizationPage2](https://github.com/BalaKrishnanCodeSpace/airbnb/blob/76167a23cbe1adb3b9d6737a1a32baffc8e4b288/Misc/Visualization_Page%20-%20EDA.png)
+
+
+4. Contact Page
+![ContactPage]((https://github.com/BalaKrishnanCodeSpace/airbnb/blob/76167a23cbe1adb3b9d6737a1a32baffc8e4b288/Misc/Contact_Page.png)))
