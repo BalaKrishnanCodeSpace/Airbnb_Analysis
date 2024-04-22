@@ -110,4 +110,4 @@ You can now explore the different features and functionalities of the Streamlit 
 
 
 4. Contact Page
-![ContactPage]((https://github.com/BalaKrishnanCodeSpace/airbnb/blob/76167a23cbe1adb3b9d6737a1a32baffc8e4b288/Misc/Contact_Page.png)))
+![ContactPage](https://github.com/BalaKrishnanCodeSpace/airbnb/blob/76167a23cbe1adb3b9d6737a1a32baffc8e4b288/Misc/Contact_Page.png)
