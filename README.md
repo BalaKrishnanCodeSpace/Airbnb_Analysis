@@ -38,7 +38,7 @@ This project explores the world of Airbnb rentals through a data-driven lens. By
   - Empower stakeholders with data-driven insights: Provide stakeholders with actionable information to guide decision-making.</br></br></br>
 
 
-## Installation Guide
+## Developer Guide
 To run the Streamlit web application, you'll need to follow these steps:
 
 1. Clone the Repository
@@ -67,3 +67,6 @@ Once the Streamlit server is running, you can access the application by opening 
 
 5. Explore the Application
 You can now explore the different features and functionalities of the Streamlit application as per your requirements.
+
+
+
