@@ -53,7 +53,7 @@ def mongoDb_connection():
         st.write(e)
     
     # Return the MongoDB collection object
-    return Collection
+    return Collection, Client
 
 
 #   ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~ Convert Collection to DataFrame ~ - ~ - ~ - ~ - ~ - ~ - ~ - ~   #
@@ -435,9 +435,10 @@ if Selected_Option == "Export":
     if st.button('Extract to CSV'):
         with st.spinner('Please wait while we Extract data to CSV File'):
             # Establish connection to MongoDB
-            Collection = mongoDb_connection()
+            Collection,Client = mongoDb_connection()
             # Convert MongoDB data to DataFrame
             df = convert_to_dataframe(Collection)            
+            Client.close()  # Close the MongoDB Connection
             # Export DataFrame to CSV file
             df.to_csv(r"C:\My Folder\airbnb_data.csv",index = False)
             # Display success message after exporting
