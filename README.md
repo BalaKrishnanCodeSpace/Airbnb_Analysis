@@ -4,7 +4,7 @@
 </div></br>
 
 
-
+___
 ## Table of Contents
 
 - [Overview](#overview)
@@ -15,9 +15,11 @@
 - [About the Developer](#about-the-developer)
 </br>
 
+___
 ## Overview
 This project explores the world of Airbnb rentals through a data-driven lens. By leveraging various data science techniques and industry-standard tools, the project aims to uncover valuable insights for stakeholders and potential Airbnb hosts.</br></br>
 
+___
 ## Project Objectives
 - **<em><ins>Data Acquisition and Cleaning</ins></em>**
   - <b>MongoDB Connection:</b> Establish a connection to the MongoDB Atlas database and retrieve the Airbnb dataset.
@@ -41,9 +43,9 @@ This project explores the world of Airbnb rentals through a data-driven lens. By
 - **<em><ins>Problem-Solving and Decision Making</ins></em>**
   - <b>Apply analytical thinking:</b> Utilize data analysis techniques to investigate factors influencing Airbnb listings.
   - <b>Investigate factors influencing pricing, availability, and other aspects:</b> Analyze factors that impact these aspects of Airbnb listings.
-  - <b>Empower stakeholders with data-driven insights:</b> Provide stakeholders with actionable information to guide decision-making.</br></br></br>
+  - <b>Empower stakeholders with data-driven insights:</b> Provide stakeholders with actionable information to guide decision-making.</br></br>
 
-
+___
 ## Developer Guide
 To run the Streamlit web application, you'll need to follow these steps:
 
@@ -58,7 +60,7 @@ pip install -r requirements.txt
 Log in to your MongoDB Atlas account and navigate to your cluster. Copy the connection string (URI) provided by Atlas.
 
 3. Set Up Connection in Python:
-create an account in [**MongoDB Atlas**](https://account.mongodb.com/account/login) and set up a cluster. MongoDB Atlas provides cloud-hosted MongoDB databases that allow you to store and manage your data in a scalable and secure manner. Creating a cluster is necessary to deploy and manage your MongoDB database in the cloud. Use the pymongo library to establish a connection to MongoDB Atlas in your Python script. Here's an example:
+Create an account in [**MongoDB Atlas**](https://account.mongodb.com/account/login) and set up a cluster. MongoDB Atlas provides cloud-hosted MongoDB databases that allow you to store and manage your data in a scalable and secure manner. Creating a cluster is necessary to deploy and manage your MongoDB database in the cloud. Use the pymongo library to establish a connection to MongoDB Atlas in your Python script. Here's an example:
 
 ```python
 from pymongo.mongo_client import MongoClient
@@ -89,16 +91,16 @@ streamlit run airbnb.py
 Once the Streamlit server is running, you can access the application by opening a web browser and navigating to the URL provided by Streamlit, typically http://localhost:8501.
 
 5. Explore the Application
-You can now explore the different features and functionalities of the Streamlit application as per your requirements.
+You can now explore the different features and functionalities of the Streamlit application as per your requirements.</br></br>
 
-
+___
 ## Features
 - Data Visualization: Visualize Airbnb data using interactive charts and maps.
 - Streamlit Integration: Utilize Streamlit to create a user-friendly web interface for data exploration.
 - MongoDB Connectivity: Connect to MongoDB Atlas to retrieve and analyze Airbnb data stored in the cloud.
-- Power BI Integration: Embed Power BI visualizations within the Streamlit app for enhanced data presentation.
+- Power BI Integration: Embed Power BI visualizations within the Streamlit app for enhanced data presentation.</br></br>
 
-
+___
 ## Interface
 1. ### <em><ins><b>Home Page<b></ins></em></br>
    The home page provides an overview of Airbnb analysis, including a brief description of the application's purpose, skills developed, and domain expertise. It also features a YouTube video embedded to provide additional context.</br></br>
@@ -128,14 +130,15 @@ You can now explore the different features and functionalities of the Streamlit 
 
 
 
-
+___
 ## About the Developer
-Hi there! 👋 I'm Balakrishnan Ravikumar, the developer behind this project. I'm deeply passionate about leveraging data-driven insights to solve real-world problems and drive decision-making. I believe that by harnessing the power of data analytics, we can unlock valuable insights that lead to smarter and more informed decisions. Whether it's optimizing business processes or improving customer experiences or addressing societal challenges, I'm dedicated to using data science techniques to make a positive impact on the world around us.</br>
+Hi there! 👋 I'm <b><em>Balakrishnan Ravikumar</em></b>, the developer behind this project. I'm deeply passionate about leveraging data-driven insights to solve real-world problems and drive decision-making. I believe that by harnessing the power of data analytics, we can unlock valuable insights that lead to smarter and more informed decisions. Whether it's optimizing business processes or improving customer experiences or addressing societal challenges, I'm dedicated to using data science techniques to make a positive impact on the world around us.</br>
 
+___
 ## Contact Information
 Feel free to reach out to me if you have any questions, feedback, or just want to connect! You can find me at:</br>
 
-Name: Balakrishnan Ravikumar</br>
-Location: Chennai, Tamil Nadu, India</br>
-LinkedIn: [LinkedIn Profile URL](https://www.linkedin.com/in/balakrishnan-ravikumar-8790732b6/)</br>
-GitHub: [GitHub Profile URL](https://github.com/BalaKrishnanCodeSpace)</br>
+Name: ⠀⠀⠀⠀Balakrishnan Ravikumar</br>
+Location: ⠀⠀Chennai, Tamil Nadu, India</br>
+LinkedIn: ⠀⠀[LinkedIn](https://www.linkedin.com/in/balakrishnan-ravikumar-8790732b6/)</br>
+GitHub: ⠀⠀⠀[GitHub](https://github.com/BalaKrishnanCodeSpace)</br>
