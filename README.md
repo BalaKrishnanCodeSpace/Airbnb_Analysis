@@ -150,4 +150,4 @@ ___
 
 
 
-[[<img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" width="20" height="20"/>](GitHub)](https://github.com/BalaKrishnanCodeSpace)
+[<img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" width="20" height="20"/>](https://github.com/BalaKrishnanCodeSpace)
