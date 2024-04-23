@@ -139,15 +139,15 @@ ___
 Feel free to reach out to me if you have any questions, feedback, or just want to connect! You can find me at:</br>
 
 Name: ⠀⠀⠀⠀Balakrishnan Ravikumar</br>
-Location: ⠀⠀Chennai, Tamil Nadu, India</br>
-LinkedIn: ⠀⠀[LinkedIn](https://www.linkedin.com/in/balakrishnan-ravikumar-8790732b6/)</br>
-GitHub: ⠀⠀⠀[GitHub](https://github.com/BalaKrishnanCodeSpace)</br>
+Location: ⠀⠀Chennai, Tamil Nadu, India</br></br>
+[<img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" width="30" height="30"/>](https://www.linkedin.com/in/balakrishnan-ravikumar-8790732b6/) 
+⠀⠀[<img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" width="30" height="30"/>](https://github.com/BalaKrishnanCodeSpace)
+
 ___
 
 
-[<img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" width="20" height="20"/>](LinkedIn)  
-[<img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" width="20" height="20"/>](GitHub)
+  
 
 
 
-[<img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" width="20" height="20"/>](https://github.com/BalaKrishnanCodeSpace)
+
