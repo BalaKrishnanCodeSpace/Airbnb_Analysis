@@ -132,7 +132,7 @@ ___
 
 ___
 ## About the Developer
-Hi there! 👋 I'm <b><em>Balakrishnan Ravikumar</em></b>, the developer behind this project. I'm deeply passionate about leveraging data-driven insights to solve real-world problems and drive decision-making. I believe that by harnessing the power of data analytics, we can unlock valuable insights that lead to smarter and more informed decisions. Whether it's optimizing business processes or improving customer experiences or addressing societal challenges, I'm dedicated to using data science techniques to make a positive impact on the world around us.</br>
+Hi there! 👋 I'm <b><em>Balakrishnan Ravikumar</em></b>, the developer behind this project. I'm deeply passionate about leveraging data-driven insights to solve real-world problems and drive decision-making. I believe that by harnessing the power of data analytics, we can unlock valuable insights that lead to smarter and more informed decisions. Whether it's optimizing business processes or improving customer experiences or addressing societal challenges, I'm dedicated to using data science techniques to make a positive impact on the world around us.</br></br>
 
 ___
 ## Contact Information
@@ -142,3 +142,4 @@ Name: ⠀⠀⠀⠀Balakrishnan Ravikumar</br>
 Location: ⠀⠀Chennai, Tamil Nadu, India</br>
 LinkedIn: ⠀⠀[LinkedIn](https://www.linkedin.com/in/balakrishnan-ravikumar-8790732b6/)</br>
 GitHub: ⠀⠀⠀[GitHub](https://github.com/BalaKrishnanCodeSpace)</br>
+___
